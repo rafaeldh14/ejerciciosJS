@@ -1,0 +1,13 @@
+h1 {
+  color: blue;
+  font-family: "Courier New", Courier, monospace;
+  font: 50px;
+}
+.btnRegister{
+    color: white;
+    background-color: black;
+}
+.btnShow{
+    color: rgb(196, 26, 26);
+    background-color: rgb(107, 113, 116);
+}
